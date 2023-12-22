@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Copy To Clipboard
-permalink: /ctc/
+permalink: /ctc
 ---
 
 Test
