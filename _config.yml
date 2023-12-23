@@ -1,16 +1,16 @@
 # Configurations
-title: Jekyll Gitbook
-longtitle: Jekyll Gitbook
-author: HE Tao
-email: sighingnow@gmail.com
+title: Metatonic Apps
+longtitle: Metatonic Apps
+author: metatonic
+email: metatonic.app@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Metatonic Apps.
 
 version: 1.0
 gitbook_version: 3.2.3
 
-url: "https://sighingnow.github.io"
-baseurl: "/jekyll-gitbook"
+url: "https://act2lsy.github.io/metatonic/"
+baseurl: "/apps"
 rss: RSS
 
 # bootstrap: use the remote theme for the site itself
