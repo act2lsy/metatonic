@@ -14,7 +14,7 @@ baseurl: "/apps"
 rss: RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: act3lsy/jekyll-gitbook
+remote_theme: act2lsy/jekyll-gitbook
 
 toc:
   enabled: true
