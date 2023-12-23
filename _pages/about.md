@@ -1,10 +1,11 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+author: metatonic
+date: 2023-12-23
 category: Jekyll
 layout: post
 order: 1
+cover: https://act2lsy.github.io/metatonic/assets/logoMT2.png
 ---
 
-This is an about page.
+We build useful Jira apps, and we strive to maintain their value.
