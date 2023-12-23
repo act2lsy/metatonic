@@ -9,12 +9,15 @@ description: >
 version: 1.0
 gitbook_version: 3.2.3
 
-url: "https://act2lsy.github.io/metatonic/"
-baseurl: "/apps"
+#url: "https://act2lsy.github.io/metatonic/"
+#baseurl: "/apps"
+url: "https://sighingnow.github.io"
+baseurl: "/jekyll-gitbook"
 rss: RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: act2lsy/jekyll-gitbook
+#remote_theme: act2lsy/jekyll-gitbook
+remote_theme: sighingnow/jekyll-gitbook
 
 toc:
   enabled: true
