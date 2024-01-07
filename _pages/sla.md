@@ -11,8 +11,9 @@ Metatonic provides technical support related to our Atlassian Marketplace produc
 
 ### Contact Support channels
 
-Reach us via Customer Portal - https://metatonic.atlassian.net/servicedesk/customer/portal/1
-Or via email metatonic.app@gmail.com
+Reach us via [Customer Portal](https://metatonic.atlassian.net/servicedesk/customer/portal/1)
+
+Or via email <metatonic.app@gmail.com>
 
 ### Hours of Operation
 
