@@ -16,7 +16,7 @@ Or via email metatonic.app@gmail.com
 
 ### Hours of Operation
 
-Monday-Friday 9:00 AM - 6:00 PM GMT+1
+Monday-Friday 9:00 AM - 6:00 PM GMT+9
 We respond within 24 hours.
 We will use reasonable efforts to perform the Support in accordance with the SLA. We will not be responsible for delays caused by the Client or for reasons beyond Metatonic control.
 
